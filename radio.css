@@ -42,7 +42,7 @@ div.answer div input[type=radio] ~ label::before {
 	content: '';
 	border-radius: 100%;
 	border : 4px solid white;
-	padding: 8px;
+	padding: 10px;
 	margin-right: 15px;
 	vertical-align: middle;
 	left:20px;
