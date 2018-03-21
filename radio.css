@@ -12,11 +12,11 @@ div.answer div {
 }
 
 div.answer div.r0 label {
-	background-color : green;
+	background-color : #3AAA35;
 }
 
 div.answer div.r1 label{
-	background-color: tomato;
+	background-color: #E6332A;
 }
 
 div.answer div label {
@@ -57,9 +57,9 @@ div.answer div input[type=radio]:checked ~ label::before {
 }
 
 div.answer div.r0 input[type=radio] ~ label:hover {
-	background-color: blue;
+	background-color: #226B20;
 }
 
 div.answer div.r1 input[type=radio] ~ label:hover {
-	background-color: maroon;
+	background-color: #8C2314;
 }
