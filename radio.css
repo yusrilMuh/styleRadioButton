@@ -31,7 +31,8 @@ div.answer div label {
 	height : 22px;
 	padding : 10px;
 	text-align : center;
-	margin : 0 10px;
+	margin : 10px;
+	margin-bottom : 0px;
 	border-radius : 21px;
 }
 
